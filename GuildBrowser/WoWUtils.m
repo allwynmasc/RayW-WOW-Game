@@ -1,3 +1,5 @@
+//Created by Allwyn
+
 #import "WoWUtils.h"
 
 @implementation WoWUtils
